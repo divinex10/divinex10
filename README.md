@@ -9,7 +9,7 @@
 ---
 
 ### 💻 Tecnologias que estou aprendendo:
-- Java
+- Spring Boot
 - Django 
 - HTML & CSS 
 
