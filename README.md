@@ -12,6 +12,8 @@
 ![GitHub Snake](./github-snake-dark.svg)
 
 
+---
+![HTML5](https://shields.io)
 
 ---
 <div align="center">
