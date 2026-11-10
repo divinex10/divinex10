@@ -1,6 +1,4 @@
-# Olá, eu sou o Guilherme de Sousa Teixeira! 👋
-
-Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **software, hardware e mecânica**. Adoro entender como as coisas funcionam por dentro, desde o código lógico até as engrenagens físicas.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4EF718&width=435&lines=Ol%C3%A1!+Sou+Guilherme+Teixeira!+%F0%9F%91%8B;Estudante++apaixonado+por+tecnologia.;Hardware%2C+Software+e+Mec%C3%A2nica.)](https://git.io/typing-svg)
 
 ---
 
@@ -11,18 +9,21 @@ Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **so
 
 ---
 
-### 🐍 Gráfico de Contribuições (Snake Game)
-
 ![GitHub Snake](./github-snake-dark.svg)
+
+
 
 ---
 <div align="center">
 
-  # In Memoriam
-  ## Divino Teixeira de Alexandria
-  ### 🕊️ *29/01/1968 – 29/08/2024*
+ # In Memoriam
+ ## Divino Teixeira de Alexandria
+ ###  *29/01/1968 – 29/08/2024*
 
-  <img src="https://demolab.com" alt="Homenagem Divinex" />
+ ---
+
+Uma homenagem profunda e eterna ao meu pai, meu grande amigo. Cada linha de código que escrevo carrega um pedaço dos ensinamentos, do apoio e do orgulho que ele sempre teve por mim. 
+**"Divinex"**
 
 </div>
 
@@ -30,4 +31,4 @@ Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **so
 
 ### 🌐 Vamos nos conectar?
 
-* **Instagram:** [@_.gstx](https://instagram.com/_.gstx)
+* **Instagram:** [@_.gstx](https://instagram.com)
