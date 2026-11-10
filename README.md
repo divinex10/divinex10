@@ -13,7 +13,8 @@ Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **so
 
 ### 🐍 Gráfico de Contribuições (Snake Game)
 
-![GitHub Snake](https://githubusercontent.com)
+![GitHub Snake](https://jsdelivr.net)
+
 
 ---
 <div align="center">
