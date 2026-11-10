@@ -11,11 +11,13 @@
 
 ![GitHub Snake](./github-snake-dark.svg)
 
-
+---
 <div>
- <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+ 
+ [Java](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />)
+          
 </div>
-
+---
 
 <div align="center">
 
