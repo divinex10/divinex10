@@ -13,10 +13,7 @@
 
 
 ---
-
-            <i class="devicon-java-plain colored"></i>
-          
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 ---
 <div align="center">
 
