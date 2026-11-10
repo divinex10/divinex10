@@ -22,7 +22,9 @@ Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **so
 
   # In Memoriam
   ## Divino Teixeira de Alexandria
-  ###  *29/01/1968 – 29/08/2024*
+  ### 🕊️ *29/01/1968 – 29/08/2024*
+
+  <img src="https://demolab.com." alt="Homenagem Divinex" />
 
   ---
 
