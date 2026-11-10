@@ -22,12 +22,11 @@ Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **so
   ## Divino Teixeira de Alexandria
   ### 🕊️ *29/01/1968 – 29/08/2024*
 
-  <img src="https://demolab.com." alt="Homenagem Divinex" />
-
   ---
 
-  Uma homenagem profunda e eterna ao meu pai, meu grande amigo. Cada linha de código que escrevo carrega um pedaço dos ensinamentos, do apoio e do orgulho que ele sempre teve por mim. 
-  **"Divinex"**
+  <marquee behavior="scroll" direction="left" scrollamount="4">
+    ✨ <b>Uma homenagem profunda e eterna ao meu pai, meu grande amigo. Cada linha de código que escrevo carrega um pedaço dos ensinamentos, do apoio e do orgulho que ele sempre teve por mim. "Divinex"</b> ✨
+  </marquee>
 
 </div>
 
