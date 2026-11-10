@@ -15,8 +15,6 @@ Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **so
 
 ![GitHub Snake](./github-snake-dark.svg)
 
-
-
 ---
 <div align="center">
 
@@ -37,4 +35,4 @@ Sou um estudante de tecnologia completamente apaixonado pela sinergia entre **so
 
 ### 🌐 Vamos nos conectar?
 
-* **Instagram:** [@_.gstx](https://instagram.com)
+* **Instagram:** [@_.gstx](https://instagram.com/_.gstx)
