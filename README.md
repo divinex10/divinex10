@@ -13,7 +13,9 @@
 
 
 ---
-![HTML5](https://shields.io)
+
+            <i class="devicon-java-plain colored"></i>
+          
 
 ---
 <div align="center">
