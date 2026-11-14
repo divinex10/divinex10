@@ -9,7 +9,7 @@
 
 ---
 
-![GitHub Snake](./github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/divinex10/divinex10/output/github-contribution-grid-snake.svg)
 
 ### 🛠️ Tecnologias e Ferramentas
 
