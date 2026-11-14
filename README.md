@@ -9,7 +9,7 @@
 
 ---
 
-![GitHub Snake](https://raw.githubusercontent.com/divinex10/divinex10/output/github-snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/divinex10/divinex10/output/github-snake-dark.svg)
 
 ### 🛠️ Tecnologias e Ferramentas
 
