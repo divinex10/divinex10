@@ -2,7 +2,7 @@
 
 ---
 
-### 🎓 Formação Acadêmica
+### 🎓 Formação Acadêmica:
 
 - **Graduado em Análise e Desenvolvimento de Sistemas** (2023 - 2025)
 - **Graduando em Sistemas de Informação** | Universidade do Distrito Federal (UnDF) — *1° Semestre*
