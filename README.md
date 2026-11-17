@@ -42,6 +42,6 @@ Uma homenagem profunda e eterna ao meu pai, meu grande amigo. Cada linha de cód
 
 ---
 
-### 🌐 Vamos nos conectar?
+### 🌐 Vamos nos conectar?...
 
 - **Instagram:** [@_.gstx](https://instagram.com/_.gstx)
